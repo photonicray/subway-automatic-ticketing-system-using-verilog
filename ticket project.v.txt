@@ -1,6 +1,5 @@
 //
 // Ticket Machine 
-// Jenner Hanni
 //
 // Implements a Moore finite state machine in Verilog
 //
